@@ -1,0 +1,6 @@
+LoginComponent
+  - Header
+  - Form
+    - Email field
+    - Password field
+    - Submit/Login button
