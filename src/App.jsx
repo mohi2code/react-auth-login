@@ -1,5 +1,7 @@
+import Login from './Login';
+
 function App() {
-  return <h1>Setup</h1>;
+  return <Login />;
 }
 
 export default App;
